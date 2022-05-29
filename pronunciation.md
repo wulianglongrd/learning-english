@@ -1,10 +1,10 @@
 # Pronunciation
 
-## vowel `/ɪ/`
+## Vowel `/ɪ/`
 
 short vowel sound
 
-### words
+### Words
 
 | word   | pronounce |
 |:-------|:----------|
@@ -13,7 +13,7 @@ short vowel sound
 | hymn   | /hɪm/     |
 | minute | /ˈmɪnɪt/  |
 
-### similar words
+### Similar Words
 
 `/ɪ/` short vowel <br/>
 `/iː/` long vowel
