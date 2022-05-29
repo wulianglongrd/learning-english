@@ -1,7 +1,5 @@
 # Pronunciation
 
-[toc]
-
 ## Vowel `/ɪ/`
 
 short vowel sound
