@@ -111,3 +111,89 @@ short vowel sound
 | but   | /bʌt/     | -   | bat   | /bæt/     |
 | cup   | /kʌp/     | -   | cap   | /kæp/     |
 | swum  | /swʌm/    | -   | swam  | /swæm/    |
+
+
+
+
+### `/ɑː/`
+
+long vowel sound
+
+#### Words
+
+| word   | pronounce |
+|:-------|:----------|
+| father | /ˈfɑːðər/ |
+| start  | /stɑːrt/  |
+| hard   | /hɑːrd/   |
+
+
+
+### `/ɒ/`
+
+short vowel sound
+
+#### Words
+
+| word | pronounce |
+|:-----|:----------|
+| lot  | /lɒt/     |
+| odd  | /ɒd/      |
+| wash | /wɒʃ/     |
+
+
+
+### `/ɔː/`
+
+long vowel sound
+
+#### Words
+
+| word    | pronounce |
+|:--------|:----------|
+| thought | /θɔːt/    |
+| law     | /lɔː/     |
+| north   | /nɔːrθ/   |
+| war     | /wɔːr/    |
+
+
+
+### `/ə/`
+
+short vowel sound
+
+#### Words
+
+| word | pronounce |
+|:-----|:----------|
+| a    | /ə/       |
+| the  | /ðə/      |
+| of   | /əv/      |
+| that | /ðət/     |
+
+| word     | pronounce   |
+|:---------|:------------|
+| about    | /əˈbaʊt/    |
+| common   | /ˈkɑːmən/   |
+| standard | /ˈstændərd/ |
+| butter   | /ˈbʌtər/    |
+
+
+#### extra information
+
+- schwa /ʃwɑː/: usually in unstressed syllables 非重读元音
+
+| word   | pronounce |
+|:-------|:----------|
+| accuse | /əˈkjuːz/ |
+| banana | /bəˈnænə/ |
+| father | /ˈfɑːðər/ |
+| camera | /ˈkæmərə/ |
+
+- schwa can also be the pronunciation for a whole word itself
+a cup of tea `/ə ˈkʌpə tiː/`, the words "a" and "of" become schwa <br/>
+a piece of cake `/ə ˈpiːsə keɪk/`
+
+
+
+
