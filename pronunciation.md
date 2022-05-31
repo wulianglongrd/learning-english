@@ -191,6 +191,7 @@ short vowel sound
 | camera | /ˈkæmərə/ |
 
 - schwa can also be the pronunciation for a whole word itself
+
 a cup of tea `/ə ˈkʌpə tiː/`, the words "a" and "of" become schwa <br/>
 a piece of cake `/ə ˈpiːsə keɪk/`
 
